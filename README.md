@@ -50,7 +50,7 @@ You can select from a range of audiences or a single auidience. Examples:
 > (From left to right: Batman,  Wonder Woman, Superman.)
 <!-- replace with full names of your team members -->
 
-* Team Member 1
+* Sanaa Boddie
 * Team Member 2
 * Team Member 3
 * Team Member 4
