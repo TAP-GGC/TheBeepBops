@@ -57,7 +57,7 @@ You can select from a range of audiences or a single auidience. Examples:
 * Sanaa Boddie
 * Bella Toledo
 * Hector Cruz
-* Team Member 4
+* Jay Tak
 
 ## :mortar_board: Advisors
 <!-- name of the two professors overseeing your TAP class -->
