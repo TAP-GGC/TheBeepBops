@@ -89,11 +89,12 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 <i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
-  <img alt="Scratch Logo" src = "media/technology/scratch logo.png" width="200" height="200"/>
+  <img alt="mBot Picture" src = "media/technology/00_mbot Mega.png" width="200" height="200"/>
 </p>
 
-* [Scratch](https://scratch.mit.edu/) is a block-based programming language developed by the MIT Media Lab as an education tool for children to learn computing in a fun and interactive way.
-* Scratch has drag-and-drop interfaces. Unlike text-based programming language like Java or C where you physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
+* [mBot Mega](https://www.makeblock.com/pages/mbot-mega-smart-remote-control-robot) is a buildable smart remote-control robot developed by Makeblock as an educational tool for children to learn computing and have fun.
+* mBot Mega uses mBlock, which is block-based coding similar to Scratch. Similarly to Scratch, you can drag-and-drop coding blocks to develop a sequence that the mBot can follow.
+* mBot is also equipped with sensors such as IR obstacle avoidance, line follower, and a crash sensor. These sensors can be used without programming but they can be utilized within code for various purposes.
 * Explain why your team chose this technology for this workshop.
 
 <p align="center">
