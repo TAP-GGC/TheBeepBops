@@ -9,10 +9,16 @@
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
 ## :loudspeaker: About
-The objective of the workshop is  ...
+The objective of the workshop is to have the participants learn basic coding skills, logical thinking, and apply block coding. The block coding will have the participants control the robots through advancing in an obstacle course and they will also have a chance to interact with the Makey Makey system. While programming the robots for real-world tasks, participants will learn about sensors, 'if' amd 'else' statements, and booleans.
 <!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
 
-This workshop has participants do ...
+This workshop will have participants:
+
+- Program robots to move around and through obstacle courses using their on-board sensors for the capability of obstacle avoidance.
+- Control Robots using block coding to program using Makey Makey as a controller.
+- Participate in a robot competition, since speed and movement will be conterolled through inputs including Play-Doh or slime.
+- For more advanced learners, participants will incorporate the Raspberry Pi with the robots, using more advanced basic tasks in Python and more complex features. This will show the advanced concepts of programming and how they are used in the real-world. 
+
 
 ## :bulb: Project Information
 <!-- 
@@ -61,12 +67,13 @@ You can select from a range of audiences or a single auidience. Examples:
 
 ## :mortar_board: Advisors
 <!-- name of the two professors overseeing your TAP class -->
-* Dr. John Doe
-* Dr. Jane Doe
+* Dr. Gunay
+* Dr. Robertson
 
 
 ## :page_with_curl: Project Description
-A more thorough description of your project. Not a full walkthrough, but describe the different sections of your project and the gist of what participants will be doing when interacting with it and what they'll learn.
+
+First, participants will code a robot to make its way around a track and avoid obstacles using its built-in sensors. Then, they will use a Makey Makey as a controller for the robot and program its movements. For this, they will use block coding. Lastly, advanced participants will attach a Rapsberry Pi to enhance the capabilities of the robot while also learning basic Python and conquering harder courses for the robot itself. 
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
