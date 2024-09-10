@@ -9,14 +9,14 @@
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
 ## :loudspeaker: About
-The objective of the workshop is to have the participants learn basic coding skills, logical thinking, and apply block coding. The block coding will have the participants control the robots through advancing in an obstacle course and they will also have a chance to interact with the Makey Makey system. While programming the robots for real-world tasks, participants will learn about sensors, 'if' amd 'else' statements, and booleans.
+The objective of the workshop is to have the participants learn basic coding skills, logical thinking, and apply block coding. The block coding will have the participants control the robots through advancing in an obstacle course and they will also have a chance to interact with Xbox controllers. While programming the robots for real-world tasks, participants will learn about sensors, 'if' amd 'else' statements, and booleans.
 <!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
 
 This workshop will have participants:
 
 - Program robots to move around and through obstacle courses using their on-board sensors for the capability of obstacle avoidance.
-- Control Robots using block coding to program using Makey Makey as a controller.
-- Participate in a robot competition, since speed and movement will be conterolled through inputs including Play-Doh or slime.
+- Control Robots using block coding to program using Xbox controllers.
+- Participate in a robot competition, since speed and movement will be conterolled through the controllers.
 - For more advanced learners, participants will incorporate the Raspberry Pi with the robots, using more advanced basic tasks in Python and more complex features. This will show the advanced concepts of programming and how they are used in the real-world. 
 
 
