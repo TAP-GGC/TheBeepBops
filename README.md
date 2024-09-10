@@ -3,7 +3,7 @@
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
   <img alt="The Beep Bops Logo" src="media/logos/TheBeepBopslogo.png" width="500" height="100" />
-  <h1 align="center">Project Template (Example: A Game that Emphasizes the Importance of Programming Statements)</h1>
+  <h1 align="center">A Robot Obstacle Course Adventure!</h1>
   <p align="center">A project for mBot creativity by team: The BeepBops... </p>
 </p>
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
