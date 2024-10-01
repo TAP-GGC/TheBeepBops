@@ -9,15 +9,14 @@
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
 ## :loudspeaker: About
-The objective of the workshop is to have the participants learn basic coding skills, logical thinking, and apply block coding. The block coding will have the participants control the robots through advancing in an obstacle course and they will also have a chance to interact with Xbox controllers. While programming the robots for real-world tasks, participants will learn about sensors, 'if' amd 'else' statements, and booleans.
+The objective of the workshop is to have the participants learn basic coding skills, demonstrate critical thinking, and apply block coding. The block coding will have the participants control the robots to navigate an obstacle course by utilizing various sensors equipped on the robot. While programming the robots for real-world tasks, participants will learn about sensors, 'if' and 'else' statements, and booleans.
 <!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
 
 This workshop will have participants:
 
-- Program robots to move around and through obstacle courses using their on-board sensors for the capability of obstacle avoidance.
-- Control Robots using block coding to program using Xbox controllers.
-- Participate in a robot competition, since speed and movement will be conterolled through the controllers.
-- For more advanced learners, participants will incorporate the Raspberry Pi with the robots, using more advanced basic tasks in Python and more complex features. This will show the advanced concepts of programming and how they are used in the real-world. (TBD)
+- Program robots to move around through obstacle courses using their onboard sensors for the task of obstacle avoidance.
+- Participate in a robot competition, since participants can program speed and movement for their assigned robot.
+- For more advanced learners, participants will incorporate the Raspberry Pi with the robots, using advanced coding in Python and more complex features. This will show the advanced concepts of programming and how they are used in the real world. (TBD)
 
 
 ## :bulb: Project Information
@@ -61,9 +60,9 @@ You can select from a range of audiences or a single auidience. Examples:
 <!-- replace with full names of your team members -->
 
 * Sanaa Boddie
-* Bella Toledo
 * Hector Cruz
 * Jay Tak
+* Bella Toledo (Honorary)
 
 ## :mortar_board: Advisors
 <!-- name of the two professors overseeing your TAP class -->
@@ -73,7 +72,7 @@ You can select from a range of audiences or a single auidience. Examples:
 
 ## :page_with_curl: Project Description
 
-First, participants will code a robot to make its way around a track and avoid obstacles using its built-in sensors. Then, they will use a Makey Makey as a controller for the robot and program its movements. For this, they will use block coding. Lastly, advanced participants will attach a Rapsberry Pi to enhance the capabilities of the robot while also learning basic Python and conquering harder courses for the robot itself. 
+First, participants will code a robot to make its way around a track and avoid obstacles using its built-in sensors. For this, they will use block coding. Lastly, advanced participants will attach a Rapsberry Pi to enhance the capabilities of the robot while also learning basic Python and conquering harder courses for the robot itself. 
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
@@ -96,7 +95,7 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 <i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
-  <img alt="mBot Picture" src = "media/technology/00_mbot Mega.png" width="400" height="200"/>
+  <img alt="mBot Picture" src = "media/technology/00_mbot Mega.png" width="300" height="200"/>
 </p>
 
 * [mBot Mega](https://www.makeblock.com/pages/mbot-mega-smart-remote-control-robot) is a buildable smart remote-control robot developed by Makeblock as an educational tool for children to learn computing and have fun.
