@@ -16,7 +16,6 @@ This workshop will have participants:
 
 - Program robots to move around through obstacle courses using their onboard sensors for the task of obstacle avoidance.
 - Participate in a robot competition through a track designed by us, since participants can add variation to their programs like making the mBot move faster/slower, turn more sharply, etc... .
-- For more advanced learners, participants will incorporate the line detection feature on the mBot since it is more complex to get those senors to work compared to the obstacle detection sensors. 
 
 ## :bulb: Project Information
 <!-- 
