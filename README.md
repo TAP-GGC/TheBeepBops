@@ -9,15 +9,14 @@
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
 ## :loudspeaker: About
-The objective of the workshop is to have the participants learn basic coding skills, demonstrate critical thinking, and apply block coding. The block coding will have the participants control the robots to navigate an obstacle course by utilizing various sensors equipped on the robot. While programming the robots for real-world tasks, participants will learn about sensors, 'if' and 'else' statements, and booleans.
+The objective of the workshop is to have the participants learn basic coding skills, demonstrate critical thinking, and apply block coding. The block coding will have the participants control a robot called mBot Mega to navigate an obstacle course by utilizing various sensors equipped on the robot. While programming the mBots for real-world tasks, participants will learn about sensors, 'if' and 'else' statements, and booleans.
 <!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
 
 This workshop will have participants:
 
 - Program robots to move around through obstacle courses using their onboard sensors for the task of obstacle avoidance.
-- Participate in a robot competition, since participants can program speed and movement for their assigned robot.
-- For more advanced learners, participants will incorporate the Raspberry Pi with the robots, using advanced coding in Python and more complex features. This will show the advanced concepts of programming and how they are used in the real world. (TBD)
-
+- Participate in a robot competition through a track designed by us, since participants can add variation to their programs like making the mBot move faster/slower, turn more sharply, etc... .
+- For more advanced learners, participants will incorporate the line detection feature on the mBot since it is more complex to get those senors to work compared to the obstacle detection sensors. 
 
 ## :bulb: Project Information
 <!-- 
@@ -35,14 +34,14 @@ You can select from a range of audiences or a single auidience. Examples:
   You will be presenting most often to your peers who are taking introductory technology classes, so more often than not you should be including college in your target audience range. 
 -->
 * <b>Project Title:</b> Using block coding to teach how algorithms can be used to control a robot
-* <b>About:</b> The project will include 4 parts, the block coding, XBox controllers the track, and the actual mBot itself. We will have our attendees start with learning the basic concepts of coding. Then we will teach them how to use one of the most basic forms of code being block code with the program that comes with mBot conveniently called mBlock. After that we will present to our attendees what makey makey is and how it can be implemented in the coding section. And then finally we will show them how we can put all these technologies together in order to take control of the mBot by using the makey makey. After showing a very brief demonstration of what you can do with code we will have them start programming in order for them to learn how to code with algorithms. We will have a finished code that works with everything mentioned above and we will guide them step by step in order to reach the final code. Once it's all made we will have a premade obstacle course for the participants to try and compete in and see who finishes first! We are still figuring out if we are going to do a race or time trials to determine the winner. We will have a prize for all those who participated and extra prizes for the winners. 
+* <b>About:</b> The project will include 3 parts, the block coding, the track, and the actual mBot itself. We will start by presenting to our audience what coding is, how it works, and how it can be applied to the real world. We will have our attendees start with learning the basic concepts of coding. Then we will teach them how to use one of the most basic forms of code being block code with the program that comes with mBot conveniently called mBlock. After showing a very brief demonstration of what you can do with code we will have them start programming in order for them to learn how to code with algorithms. We will have them start off easy with a very basic goal that is being able to make the mBot move in a straight line back and forth as a loop. Once that is done we will move to phase 2 which will introduce some more commands that can be executed in the code, and have the participants move the mBot in a circle going around in a controlled pattern. We will have a finished code that works with everything mentioned above and we will guide them step by step in order to reach the final code. After phase 1 and 2 is done we will move on to the final challange and incorporate the obstacle avoidance sensors. We will have a premade obstacle course for the participants to try and complete it. After all participants are able to complete the course if there is time we will have bonus phase as a race! The participants can compete in and see who finishes first! The track will be taken apart down the middle to allow collisions of the mBots! We will have a prize for all those who participated and extra prizes for the winners. 
 
 * <b>Difficulty Level:</b> Beginner
 * <b>Target Audience:</b> K12 - College (edit .md file to view all options presented in the markdown comments)
 * <b>Duration of Workshop:</b> Short version, for the middle schoolers: 30 minutes
                                 Longer version, for the college students: 90 minutes
 * <b>Needed Materials:</b> Computers with keyboards, Access to the https://ide.makeblock.com/ site, Poster Boards, Markers, Styrofoam blocks, Playdoh, MBot, and Makey Makey.
-* <b>Learning Outcomes:</b> Our main teaching goal will be teaching people to create block coding, learning if statements and while loops, and apply it to different appliances, the Makey Makey controller and Mbot. 
+* <b>Learning Outcomes:</b> Our main teaching goal will be teaching people to create block coding, learning if statements and while loops, and apply everything covered to the mBot. 
 * <b>Your Main Technology</b> Name of Technology and then a brief descriptor. You will go more in depth on the technology used in a different section. 
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
@@ -56,13 +55,13 @@ You can select from a range of audiences or a single auidience. Examples:
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
 <img alt="art featuring batman, wonder woman, and superman" src = "media/team photos/Team Photo.JPG" width="" height="300">
 
-> (From left to right: Batman,  Wonder Woman, Superman.)
+> (From left to right: Sanaa,  Jay, Hector Cruz.)
 <!-- replace with full names of your team members -->
 
 * Sanaa Boddie
 * Hector Cruz
 * Jay Tak
-* Bella Toledo (Honorary)
+* Bella Toledo (Honorary) </3
 
 ## :mortar_board: Advisors
 <!-- name of the two professors overseeing your TAP class -->
@@ -72,7 +71,7 @@ You can select from a range of audiences or a single auidience. Examples:
 
 ## :page_with_curl: Project Description
 
-First, participants will code a robot to make its way around a track and avoid obstacles using its built-in sensors. For this, they will use block coding. Lastly, advanced participants will attach a Rapsberry Pi to enhance the capabilities of the robot while also learning basic Python and conquering harder courses for the robot itself. 
+First, participants will code a robot to go back and forth in a straight line, then in a circular pattern, and finally through a premade obstacle course. For this, they will use block coding. Lastly, if there are any advanced participants, we will challenge them to use the line detection senors to make the bot move around on a line. 
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
