@@ -9,13 +9,13 @@
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
 ## :loudspeaker: About
-The objective of the workshop is to have the participants learn basic coding skills, demonstrate critical thinking, and apply block coding. The block coding will have the participants control a robot called mBot Mega to navigate an obstacle course by utilizing various sensors equipped on the robot. While programming the mBots for real-world tasks, participants will learn about sensors, 'if' and 'else' statements, and booleans.
+The objective of the workshop is to have the participants learn basic coding fundamentals, demonstrate critical thinking, and apply block coding. Using block coding, the participants will control a robot called mBot Mega to navigate an obstacle course by utilizing various sensors equipped on the robot. While programming the mBots for real-world tasks, participants will learn about sensors, 'if' and 'else' statements, and booleans.
 <!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
 
 This workshop will have participants:
 
-- Program robots to move around through obstacle courses using their onboard sensors for the task of obstacle avoidance.
-- Participate in a robot competition through a track designed by us, since participants can add variation to their programs like making the mBot move faster/slower, turn more sharply, etc... .
+- Program a robot to perform basic movement of going forward and backward and using its onboard sensors to test out obstacle avoidance.
+- Participate in a robot competition by racing through a pre-designed track, since participants can add variation to the program like making the mBot move faster/slower, turn more sharply, etc...
 
 ## :bulb: Project Information
 <!-- 
@@ -32,16 +32,16 @@ You can select from a range of audiences or a single auidience. Examples:
     K-12
   You will be presenting most often to your peers who are taking introductory technology classes, so more often than not you should be including college in your target audience range. 
 -->
-* <b>Project Title:</b> Using block coding to teach how algorithms can be used to control a robot
-* <b>About:</b> The project will include 3 parts, the block coding, the track, and the actual mBot itself. We will start by presenting to our audience what coding is, how it works, and how it can be applied to the real world. We will have our attendees start with learning the basic concepts of coding. Then we will teach them how to use one of the most basic forms of code being block code with the program that comes with mBot conveniently called mBlock. After showing a very brief demonstration of what you can do with code we will have them start programming in order for them to learn how to code with algorithms. We will have them start off easy with a very basic goal that is being able to make the mBot move in a straight line back and forth as a loop. Once that is done we will move to phase 2 which will introduce some more commands that can be executed in the code, and have the participants move the mBot in a circle going around in a controlled pattern. We will have a finished code that works with everything mentioned above and we will guide them step by step in order to reach the final code. After phase 1 and 2 is done we will move on to the final challange and incorporate the obstacle avoidance sensors. We will have a premade obstacle course for the participants to try and complete it. After all participants are able to complete the course if there is time we will have bonus phase as a race! The participants can compete in and see who finishes first! The track will be taken apart down the middle to allow collisions of the mBots! We will have a prize for all those who participated and extra prizes for the winners. 
+* <b>Project Title:</b> Using block coding to teach algorithms that can be used to control a robot
+* <b>About:</b> The project will include 3 parts, the block coding, the track, and the actual mBot itself. We will start by presenting to our audience what coding is, how it works, and how it can be applied to the real world. We will have our participants start by learning the basic concepts of coding. Then, we will teach them how to develop with one of the most basic forms of code being block code with the program that comes with mBot conveniently called mBlock. After showing a very brief demonstration of what you can do with code we will have them start programming in order for them to learn how to code with algorithms. We will have them start off easy with a very basic goal that is being able to make the mBot move in a straight line back and forth as a loop. Once that is done we will move to phase 2 which will introduce some more commands that can be executed in the code, and have the participants move the mBot in a circle going around in a controlled pattern. We will have a finished code that works with everything mentioned above and we will guide them step by step in order to reach the final code. After phase 1 and 2 is done we will move on to the final challange and incorporate the obstacle avoidance sensors. We will have a premade obstacle course for the participants to try and complete it. After all participants are able to complete the course if there is time we will have bonus phase as a race! The participants can compete in and see who finishes first! The track will be taken apart down the middle to allow collisions of the mBots! We will have a prize for all those who participated and extra prizes for the winners. 
 
 * <b>Difficulty Level:</b> Beginner
-* <b>Target Audience:</b> K12 - College (edit .md file to view all options presented in the markdown comments)
+* <b>Target Audience:</b> Middle School Students, College Students
 * <b>Duration of Workshop:</b> Short version, for the middle schoolers: 30 minutes
-                                Longer version, for the college students: 90 minutes
-* <b>Needed Materials:</b> Computers with keyboards, Access to the https://ide.makeblock.com/ site, Foam Poster Boards, Markers, and MBot.
-* <b>Learning Outcomes:</b> Our main teaching goal will be teaching people to create block coding, learning if statements and while loops, and apply everything covered to the mBot. 
-* <b>Your Main Technology</b> Name of Technology and then a brief descriptor. You will go more in depth on the technology used in a different section. 
+                                Longer version, for college students: 75 minutes
+* <b>Needed Materials:</b> Computers/Laptops, Access to the https://ide.makeblock.com/ site, Foam Poster Boards, Scissors, Glue, MBot, Battery for Mbot, USB cable for Mbot connection.
+* <b>Learning Outcomes:</b> Our main teaching goal will be introducing people to block coding, explaining if statements and while loops, and applying all the content to the mBot. 
+* <b>Your Main Technology</b> Mbot Mega - A smart, remote-controlled robot that can be programmed to perform various maneuvers using its obstacle avoidance, line-following, and crash detection sensors.
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
 
@@ -54,7 +54,7 @@ You can select from a range of audiences or a single auidience. Examples:
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
 <img alt="art featuring sanaa, hector, jay" src = "media/team photos/thebeepbops.png" width="" height="300">
 
-> (From left to right: Sanaa,  Jay, Hector Cruz.)
+> (From left to right: Sanaa Boddie, Jay Tak, Hector Cruz.)
 <!-- replace with full names of your team members -->
 
 * Sanaa Boddie
