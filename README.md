@@ -74,7 +74,7 @@ First, participants will code a robot to go forward and backward in a straight l
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
-1. CCSC Abstract - Sanaa Boddie, Hector Cruz, Jay Tak, Dr. Gunay, Dr. Robertson. "mBot Adventures: Using robots to teach block coding and algorithmic thinking", CCSC-SE Conference, November 1-2, 2024, Georgia Gwinnett College.  
+1. <b>CCSC Abstract</b> - Sanaa Boddie, Hector Cruz, Jay Tak, Dr. Gunay, Dr. Robertson. "mBot Adventures: Using robots to teach block coding and algorithmic thinking", CCSC-SE Conference, November 1-2, 2024, Georgia Gwinnett College.  
 
 ## :open_hands: Outreach
 <i>List the outreach events your team has participated in. </i>
