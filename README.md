@@ -45,7 +45,7 @@ You can select from a range of audiences or a single auidience. Examples:
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
 
-[Commercial Video](https://ggcedu-my.sharepoint.com/:v:/g/personal/adolocmihu_ggc_edu/EfDtDDmHTzZMhtN0qvLDWf4BUHXkwp_Rwf_diLNVmMOipQ?e=dzc3HZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Commercial Video](https://github.com/user-attachments/assets/e2fc0eb3-cd85-47ba-97ca-ab2676bf6f7e)
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
