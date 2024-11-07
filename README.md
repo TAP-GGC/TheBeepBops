@@ -73,22 +73,16 @@ You can select from a range of audiences or a single auidience. Examples:
 First, participants will code a robot to go forward and backward in a straight line. Then, it will be coded to detect objects that will trigger the mBot to rotate it's course. And finally, it will navigate through a premade obstacle course. For the tasks mentioned, they will use block coding. Additionally, if there are any advanced participants, we will challenge them to use the line detection sensors to make the bot move around on a line. 
 
 ## :memo: Publications
-<!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
-1. <b>CCSC Abstract</b> - Sanaa Boddie, Hector Cruz, Jay Tak, Dr. Gunay, Dr. Robertson. "mBot Adventures: Using robots to teach block coding and algorithmic thinking", CCSC-SE Conference, November 1-2, 2024, Georgia Gwinnett College.  
+1.Sanaa Boddie, Hector Cruz, Jay Tak, Gunay Cengiz, Cindy Robertson. mBot Adventures: Using robots to teach block coding and algorithmic thinking, Consortium for Computing Sciences in Colleges: Southeastern Region (CCSC:SE), November 1-2, 2024, Greenville, SC 
 
 ## :open_hands: Outreach
-<i>List the outreach events your team has participated in. </i>
-
-Example:
 
 1. <b>TAP Expo</b>, October 8, 2024, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
 2. <b>Class Workshops</b>, October 21-25, 2024, Georgia Gwinnett College: to promote the IT field to non-IT students.
-3. <b>CCSC-SE Conference</b>, November 1-2, 2024, Furman University: showing off our results from the workshops we did to different college professors and students.
 
 ## :mag_right: Similar Projects
-<i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
 
-If you're interested in more workshops that utilize Scratch, check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles)!
+https://tapggc.org/projects/2019/fall/ball-is-life/ (Sphero)
 
 ## :computer: Technology
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
