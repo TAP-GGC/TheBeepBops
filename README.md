@@ -102,7 +102,7 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 * We chose this technology because it was simple and easy to understand for anyone who doesn't know what programming is. 
 
 <p align="center">
-<img src = "![makeblockIDE](https://github.com/user-attachments/assets/e0554a7b-f9c6-46f9-863f-786afcf5eb54)" width ="400" height="200">
+<img src = "media/technology/makeblockIDE.png" width ="400" height="250">
 </p>
 
 ## Project Setup/Installation 
