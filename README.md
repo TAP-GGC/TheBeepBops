@@ -99,7 +99,7 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 * [mBot Mega](https://www.makeblock.com/pages/mbot-mega-smart-remote-control-robot) is a buildable smart remote-control robot developed by Makeblock as an educational tool for children to learn computing and have fun.
 * mBot Mega uses mBlock, which is block-based coding similar to Scratch. Similarly to Scratch, you can drag-and-drop coding blocks to develop a sequence that the mBot can follow.
 * mBot is also equipped with sensors such as IR obstacle avoidance, line follower, and a crash sensor. These sensors can be used without programming but they can be utilized within code for various purposes.
-* Explain why your team chose this technology for this workshop.
+* We chose this technology because it was simple and easy to understand for anyone who doesn't know what programming is. 
 
 <p align="center">
 <img src = "media/technology/block-based language.png" width ="400" height="200">
