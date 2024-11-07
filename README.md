@@ -102,7 +102,7 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 * We chose this technology because it was simple and easy to understand for anyone who doesn't know what programming is. 
 
 <p align="center">
-<img src = "[Screenshot 2024-11-06 213018]" width ="400" height="200">
+<img src = "Screenshot 2024-11-06 213018" width ="400" height="200">
 </p>
 
 ## Project Setup/Installation 
