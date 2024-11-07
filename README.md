@@ -102,7 +102,7 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 * We chose this technology because it was simple and easy to understand for anyone who doesn't know what programming is. 
 
 <p align="center">
-<img src = "media/technology/block-based language.png" width ="400" height="200">
+<img src = "(https://github.com/user-attachments/assets/7fee622f-ef77-48e1-8db1-8231abb36c21)" width ="400" height="200">
 </p>
 
 ## Project Setup/Installation 
