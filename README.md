@@ -70,7 +70,7 @@ You can select from a range of audiences or a single auidience. Examples:
 
 ## :page_with_curl: Project Description
 
-First, participants will code a robot to go back and forth in a straight line, then in a circular pattern, and finally through a premade obstacle course. For this, they will use block coding. Lastly, if there are any advanced participants, we will challenge them to use the line detection senors to make the bot move around on a line. 
+First, participants will code a robot to go back and forth in a straight line, then it will be coded to detect objects and rotate it's course, and finally through a premade obstacle course. For this, they will use block coding. Lastly, if there are any advanced participants, we will challenge them to use the line detection senors to make the bot move around on a line. 
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
@@ -81,8 +81,9 @@ First, participants will code a robot to go back and forth in a straight line, t
 
 Example:
 
-1. <b>TAP Expo</b>, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
-2. <b>Class Workshops</b>, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
+1. <b>TAP Expo</b>, October 8, 2024, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
+2. <b>Class Workshops</b>, October 21-25, 2024, Georgia Gwinnett College: to promote the IT field to non-IT students.
+3. <b>CCSC:SE Conference</b>, November 1-2, 2024, Furman University: showing off our results from the workshops we did to different college professors and students.
 
 ## :mag_right: Similar Projects
 <i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
