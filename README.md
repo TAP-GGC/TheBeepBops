@@ -109,6 +109,9 @@ https://tapggc.org/projects/2019/fall/ball-is-life/ (Sphero)
 * Code using block coding through the mBlock IDE
 * Upload the code through the USB cable to the mBot and turn it on using the switch on the megaPi
 
+##Building the mBot Mega
+https://support.makeblock.com/hc/en-us/articles/1500009896321-Build-mBot-Mega
+
 ## Short Demo Instructions 
 [Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
 
