@@ -119,6 +119,6 @@ https://tapggc.org/projects/2019/fall/ball-is-life/ (Sphero)
 ## Workshop Instructions 
 * [Click here to view the workshop instructions pdf file](https://github.com/TAP-GGC/TheBeepBops/blob/b05d9a1896f608e2320f6181c40b59aacfeef535/documents/tutorial%20materials/Workshop%20Instructions.docx)
 
-[Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
+* [Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
 
 
