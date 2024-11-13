@@ -113,8 +113,8 @@ https://tapggc.org/projects/2019/fall/ball-is-life/ (Sphero)
 * https://support.makeblock.com/hc/en-us/articles/1500009896321-Build-mBot-Mega
 
 ## Short Demo Instructions 
-[Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
-[Click here to view demo instructions pdf file](documents/tutorial materials/Demo Instructions.pdf)
+* [Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
+* [Click here to view demo instructions pdf file](documents/tutorial materials/Demo Instructions.pdf)
 
 ## Workshop Instructions 
 [Click here to view workshop walkthrough pdf file](documents/tutorial materials/Workshop Instructions.pdf)
