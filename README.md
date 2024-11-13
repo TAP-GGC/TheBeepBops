@@ -116,7 +116,7 @@ https://tapggc.org/projects/2019/fall/ball-is-life/ (Sphero)
 [Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
 
 ## Workshop Instructions 
-[Click here to view workshop walkthrough pdf file](/Documents/tutorial/Scratch%20Workshop%20Walkthrough.pdf)
+[Click here to view workshop walkthrough docx file](/documents/tutorial_materials/Workshop_Instructions.docx)
 
 [Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
 
