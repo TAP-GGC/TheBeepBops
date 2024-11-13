@@ -114,7 +114,7 @@ https://tapggc.org/projects/2019/fall/ball-is-life/ (Sphero)
 
 ## Short Demo Instructions 
 * [Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
-* [Click here to view demo instructions pdf file](documents/tutorial materials/Demo Instructions.pdf)
+* [Click here to view demo instructions pdf file]([documents/tutorial materials/Demo Instructions.pdf](https://github.com/TAP-GGC/TheBeepBops/blob/a7f47cf25b2650eba115ab7c36221ab4f1020a78/documents/tutorial%20materials/Demo%20Instructions.pdf))
 
 ## Workshop Instructions 
 [Click here to view workshop walkthrough pdf file](documents/tutorial materials/Workshop Instructions.pdf)
