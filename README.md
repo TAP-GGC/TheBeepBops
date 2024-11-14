@@ -125,9 +125,9 @@ https://tapggc.org/projects/2019/fall/ball-is-life/ (Sphero)
 
 * [Workshop Powerpoint Walkthrough]()
 
-*                Demo Video for Part 1 Coding in Workshop
+*                     Demo Video for Part 1 Coding in Workshop
 * [Demo Video for Part 1 Coding in Workshop](https://github.com/user-attachments/assets/55c2b740-9a8c-41a3-b520-8fb42406be04)
-*                Demo Video for Part 2 Coding in Workshop
+*                     Demo Video for Part 2 Coding in Workshop
 * [Demo Video for Part 2 Coding in Workshop](https://github.com/user-attachments/assets/cbca2b9e-16a1-4fb9-a255-20c905440918)
 
 
