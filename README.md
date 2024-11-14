@@ -123,7 +123,8 @@ https://tapggc.org/projects/2019/fall/ball-is-life/ (Sphero)
 ## Workshop Instructions 
 * [Click here to view the workshop instructions pdf file](https://github.com/TAP-GGC/TheBeepBops/blob/b05d9a1896f608e2320f6181c40b59aacfeef535/documents/tutorial%20materials/Workshop%20Instructions.docx)
 
-* [Workshop Powerpoint Walkthrough]()
+* Workshop Presentation Walkthrough
+* [Workshop Powerpoint Walkthrough](https://github.com/user-attachments/assets/f57382b6-46a4-4835-89c7-005922f77074)
 
 * Demo Video for Part 1 Coding in Workshop
 * [Demo Video for Part 1 Coding in Workshop](https://github.com/user-attachments/assets/55c2b740-9a8c-41a3-b520-8fb42406be04)
