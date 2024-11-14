@@ -113,8 +113,8 @@ https://tapggc.org/projects/2019/fall/ball-is-life/ (Sphero)
 * https://support.makeblock.com/hc/en-us/articles/1500009896321-Build-mBot-Mega
 
 ## Short Demo Instructions 
-[Demo Video on how to setup the mBot and install the mBlock IDE](https://github.com/user-attachments/assets/22f50e76-fc6d-44d6-8987-e51f37f96f66)
-[Demo Video on how to setup the mBlock IDE after install](https://github.com/user-attachments/assets/d86c1978-8912-4ae4-8bcb-435496d857b3)
+* [Demo Video on how to setup the mBot and install the mBlock IDE](https://github.com/user-attachments/assets/22f50e76-fc6d-44d6-8987-e51f37f96f66)
+* [Demo Video on how to setup the mBlock IDE after install](https://github.com/user-attachments/assets/d86c1978-8912-4ae4-8bcb-435496d857b3)
 * [Click here to view demo instructions pdf file](https://github.com/TAP-GGC/TheBeepBops/blob/a7f47cf25b2650eba115ab7c36221ab4f1020a78/documents/tutorial%20materials/Demo%20Instructions.pdf)
 
 ## Workshop Instructions 
