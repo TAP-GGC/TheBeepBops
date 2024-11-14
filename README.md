@@ -33,7 +33,7 @@ You can select from a range of audiences or a single auidience. Examples:
   You will be presenting most often to your peers who are taking introductory technology classes, so more often than not you should be including college in your target audience range. 
 -->
 * <b>Project Title:</b> Using block coding to teach algorithms that can be used to control a robot
-* <b>About:</b> The project will include 3 parts, the block coding, the obstacle course, and the actual mBot itself. We will start by presenting to our audience what coding is, how it works, and how it can be applied to the real world. We will have our participants start by learning the basic concepts of coding. Then, we will teach them how to program with one of the most basic forms of code, block code. This will be done with the program that conveniently comes with mBot called mBlock. After showing a very brief demonstration of what you can do with code, we will have them interact with the IDE (Integrated Development Environment) in order for them to learn how to code using algorithms. We will have them start off easy with a very basic goal of being able to make the mBot move in a straight line forward and backward for one cycle. Once that is done, we will move to phase 2 which will introduce some more commands that will have the participants allow the mBot to move freely until an obstacle is detected, triggering the mBot to stop its movement and turn in a different direction to avoid crashing into said obstacle. We will have a cheat sheet with the completed code that works with everything mentioned above and we will guide them step by step in order to reach the final code. After phase 1 and 2 is done, we will move on to the final challange and incorporate the content taught so far by having participants try to navigate through an obstacle course. We will have it premade so that the participants can focus on developing their version of the final code that will be used to traverse the course. After all participants are able to complete the course, if time permits, we will have a bonus phase culminating in a race! The participants can compete against each other's programmed mBot to see who reaches the designated finish area first! The track will be designed to allow collisions between mBots, presenting an even greater challenge! We will have a prize for all those who participated and extra prizes for the winners. 
+* <b>About:</b> The project will include 3 parts, the block coding, the obstacle course, and the actual mBot itself. We will start by presenting to our audience what coding is, how it works, and how it can be applied to the real world. We will have our participants start by learning the basic concepts of coding. Then, we will teach them how to program with one of the most basic forms of code, block code. This will be done with the program that conveniently comes with mBot called mBlock. After showing a very brief demonstration of what you can do with code, we will have them interact with the IDE (Integrated Development Environment) in order for them to learn how to code using algorithms. We will have them start off easy with a very basic goal of being able to make the mBot move in a straight line forward and backward for one cycle. Once that is done, we will move to phase 2 which will introduce some more commands that will have the participants allow the mBot to move freely until an obstacle is detected, triggering the mBot to stop its movement and turn in a different direction to avoid crashing into said obstacle. We will have a cheat sheet with the completed code that works with everything mentioned above and we will guide them step by step in order to reach the final code. After phases 1 and 2 are done, we will move on to the final challenge and incorporate the content taught so far by having participants try to navigate through an obstacle course. We will have it premade so that the participants can focus on developing their version of the final code that will be used to traverse the course. After all participants are able to complete the course, if time permits, we will have a bonus phase culminating in a race! The participants can compete against each other's programmed mBot to see who reaches the designated finish area first! The track will be designed to allow collisions between mBots, presenting an even greater challenge! We will have a prize for all those who participated and extra prizes for the winners. 
 
 * <b>Difficulty Level:</b> Beginner
 * <b>Target Audience:</b> Middle School Students, College Students
@@ -70,7 +70,7 @@ You can select from a range of audiences or a single auidience. Examples:
 
 ## :page_with_curl: Project Description
 
-First, participants will code a robot to go forward and backward in a straight line. Then, it will be coded to detect objects that will trigger the mBot to rotate it's course. And finally, it will navigate through a premade obstacle course. For the tasks mentioned, they will use block coding. Additionally, if there are any advanced participants, we will challenge them to use the line detection sensors to make the bot move around on a line. 
+First, participants will code a robot to move forward and backward in a straight line. Then, it will be coded to detect objects that will trigger the mBot to rotate its course. And finally, it will navigate through a premade obstacle course. For the tasks mentioned, they will use block coding. Additionally, if there are any advanced participants, we will challenge them to use the line detection sensors to make the bot move around on a line. 
 
 ## :memo: Publications
 1.Sanaa Boddie, Hector Cruz, Jay Tak, Gunay Cengiz, Cindy Robertson. mBot Adventures: Using robots to teach block coding and algorithmic thinking, Consortium for Computing Sciences in Colleges: Southeastern Region (CCSC:SE), November 1-2, 2024, Greenville, SC 
@@ -92,7 +92,7 @@ https://tapggc.org/projects/2019/fall/ball-is-life/ (Sphero)
 
 * [mBot Mega](https://www.makeblock.com/pages/mbot-mega-smart-remote-control-robot) is a buildable smart remote-control robot developed by Makeblock as an educational tool for children to learn computing and have fun.
 * mBot Mega uses mBlock, which is block-based coding similar to Scratch. Similarly to Scratch, you can drag-and-drop coding blocks to develop a sequence that the mBot can follow.
-* mBot is also equipped with sensors such as IR obstacle avoidance, line follower, and a crash sensor. These sensors can be used without programming but they can be utilized within code for various purposes.
+* mBot is also equipped with sensors such as IR obstacle avoidance, line follower, and a crash sensor. These sensors can be used without programming but they can also be utilized within code for various purposes.
 * We chose this technology because it was simple and easy to understand for anyone who doesn't know what programming is. 
 
 <p align="center">
@@ -101,11 +101,11 @@ https://tapggc.org/projects/2019/fall/ball-is-life/ (Sphero)
 
 ## Project Setup
 * The mBot Mega
-* Any device with a bluetooth connection
+* Any device with a Bluetooth connection
 * An obstacle course
 
 ## Usage
-* Connect the mBot Mega through a USB cable or through a bluetooth connection using your phone
+* Connect the mBot Mega through a USB cable or a Bluetooth connection using your phone
 * Code using block coding through the mBlock IDE
 * Upload the code through the USB cable to the mBot and turn it on using the switch on the megaPi
 
@@ -113,7 +113,8 @@ https://tapggc.org/projects/2019/fall/ball-is-life/ (Sphero)
 * https://support.makeblock.com/hc/en-us/articles/1500009896321-Build-mBot-Mega
 
 ## Short Demo Instructions 
-* [Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
+* [Demo Video on how to setup the mBot and install the mBlock IDE](https://github.com/user-attachments/assets/22f50e76-fc6d-44d6-8987-e51f37f96f66)
+* [Demo Video on how to setup the mBlock IDE after install](https://github.com/user-attachments/assets/d86c1978-8912-4ae4-8bcb-435496d857b3)
 * [Click here to view demo instructions pdf file](https://github.com/TAP-GGC/TheBeepBops/blob/a7f47cf25b2650eba115ab7c36221ab4f1020a78/documents/tutorial%20materials/Demo%20Instructions.pdf)
 
 ## Workshop Instructions 
