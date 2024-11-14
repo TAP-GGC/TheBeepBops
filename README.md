@@ -115,9 +115,9 @@ https://tapggc.org/projects/2019/fall/ball-is-life/ (Sphero)
 ## Short Demo Instructions 
 * [Click here to view demo instructions pdf file](https://github.com/TAP-GGC/TheBeepBops/blob/a7f47cf25b2650eba115ab7c36221ab4f1020a78/documents/tutorial%20materials/Demo%20Instructions.pdf)
 
-*               Demo Video for mBot setup and installing mBlock IDE
+*            Demo Video for mBot setup and installing mBlock IDE
 * [Demo Video on how to setup the mBot and install the mBlock IDE](https://github.com/user-attachments/assets/22f50e76-fc6d-44d6-8987-e51f37f96f66)
-*                 Demo Video on mBlock IDE setup after installation
+*             Demo Video on mBlock IDE setup after installation
 * [Demo Video on how to setup the mBlock IDE after install](https://github.com/user-attachments/assets/d86c1978-8912-4ae4-8bcb-435496d857b3)
 
 ## Workshop Instructions 
@@ -125,9 +125,9 @@ https://tapggc.org/projects/2019/fall/ball-is-life/ (Sphero)
 
 * [Workshop Powerpoint Walkthrough]()
 
-*          Demo Video for Part 1 Coding in Workshop
+*                Demo Video for Part 1 Coding in Workshop
 * [Demo Video for Part 1 Coding in Workshop](https://github.com/user-attachments/assets/55c2b740-9a8c-41a3-b520-8fb42406be04)
-*          Demo Video for Part 2 Coding in Workshop
+*                Demo Video for Part 2 Coding in Workshop
 * [Demo Video for Part 2 Coding in Workshop](https://github.com/user-attachments/assets/cbca2b9e-16a1-4fb9-a255-20c905440918)
 
 
