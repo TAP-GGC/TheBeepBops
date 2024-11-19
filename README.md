@@ -80,7 +80,7 @@ First, participants will code a robot to move forward and backward in a straight
 1. <b>TAP Expo</b>, October 8, 2024, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
 2. <b>Class Workshops</b>, October 21-25, 2024, Georgia Gwinnett College: to promote the IT field to non-IT students.
 3. <b>CREATE Symposium</b>, November 14, 2024, Georgia Gwinnett College: to present the project to non-IT and IT students, professors, and other attendees.
-4. <b>S3 (Super Saturday Series)</b>, November 16, Georgia Gwinnett College: to promote and educate the IT field to middle school students.
+4. <b>S3 (Super Saturday Series)</b>, November 16, 2024, Georgia Gwinnett College: to promote and educate the IT field to middle school students.
 
 ## :mag_right: Similar Projects
 
