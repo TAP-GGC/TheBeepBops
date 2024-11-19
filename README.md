@@ -115,21 +115,21 @@ https://tapggc.org/projects/2019/fall/ball-is-life/ (Sphero)
 ## Short Demo Instructions 
 * [Click here to view demo instructions pdf file](https://github.com/TAP-GGC/TheBeepBops/blob/a7f47cf25b2650eba115ab7c36221ab4f1020a78/documents/tutorial%20materials/Demo%20Instructions.pdf)
 
-* Demo Video for mBot setup and installing mBlock IDE
-* [Demo Video on how to setup the mBot and install the mBlock IDE](https://github.com/user-attachments/assets/22f50e76-fc6d-44d6-8987-e51f37f96f66)
+* Demo Video for Technology Prep (mBot setup and installing mBlock IDE)
+* [Demo Video on how to setup the mBot and install the mBlock IDE](https://github.com/user-attachments/assets/1a5b3db2-43bf-4f02-b408-73ee8d0695b9)
 * Demo Video on mBlock IDE setup after installation
-* [Demo Video on how to setup the mBlock IDE after install](https://github.com/user-attachments/assets/d86c1978-8912-4ae4-8bcb-435496d857b3)
+* [Demo Video on how to setup the mBlock IDE after install](https://github.com/user-attachments/assets/c3fcbcd1-8721-4bc5-b552-7abf2d19060c)
 
 ## Workshop Instructions 
 * [Click here to view the workshop instructions pdf file](https://github.com/TAP-GGC/TheBeepBops/blob/b05d9a1896f608e2320f6181c40b59aacfeef535/documents/tutorial%20materials/Workshop%20Instructions.docx)
 
 * Workshop Presentation Walkthrough
-* [Workshop Powerpoint Walkthrough](https://github.com/user-attachments/assets/f57382b6-46a4-4835-89c7-005922f77074)
+* [Workshop Powerpoint Walkthrough](https://github.com/user-attachments/assets/980f01eb-da8f-4e93-be68-e38de1f776c7)
 
 * Demo Video for Part 1 Coding in Workshop
-* [Demo Video for Part 1 Coding in Workshop](https://github.com/user-attachments/assets/55c2b740-9a8c-41a3-b520-8fb42406be04)
+* [Demo Video for Part 1 Coding in Workshop](https://github.com/user-attachments/assets/cae030b4-6840-47ff-8ff8-f4d1cb2b5530)
 * Demo Video for Part 2 Coding in Workshop
-* [Demo Video for Part 2 Coding in Workshop](https://github.com/user-attachments/assets/cbca2b9e-16a1-4fb9-a255-20c905440918)
+* [Demo Video for Part 2 Coding in Workshop](https://github.com/user-attachments/assets/263e465f-ceb4-4a64-8e19-38c42bdf991b)
 
 
 
