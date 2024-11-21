@@ -73,8 +73,8 @@ You can select from a range of audiences or a single auidience. Examples:
 First, participants will code a robot to move forward and backward in a straight line. Then, it will be coded to detect objects that will trigger the mBot to rotate its course. And finally, it will navigate through a premade obstacle course. For the tasks mentioned, they will use block coding. Additionally, if there are any advanced participants, we will challenge them to use the line detection sensors to make the bot move around on a line. 
 
 ## :memo: Publications
-1. Sanaa Boddie, Hector Cruz, Jay Tak, Gunay Cengiz, Cindy Robertson. mBot Adventures: Using robots to teach block coding and algorithmic thinking, Consortium for Computing Sciences in Colleges: Southeastern Region (CCSC:SE), November 1-2, 2024, Greenville, SC 
-2. Sanaa Boddie, Hector Cruz, Jay Tak, Gunay Cengiz, Cindy Robertson. mBot Adventures: Using robots to teach block coding and algorithmic thinking, CREATE Symposium, November 14, 2024, Lawrenceville, GA
+1. Sanaa Boddie, Hector Cruz, Jay Tak, Cengiz Gunay, Cindy Robertson. mBot Adventures: Using robots to teach block coding and algorithmic thinking, Consortium for Computing Sciences in Colleges: Southeastern Region (CCSC:SE), November 1-2, 2024, Greenville, SC 
+2. Sanaa Boddie, Hector Cruz, Jay Tak, Cengiz Gunay, Cindy Robertson. mBot Adventures: Using robots to teach block coding and algorithmic thinking, CREATE Symposium, November 14, 2024, Lawrenceville, GA
 
 ## :open_hands: Outreach
 
