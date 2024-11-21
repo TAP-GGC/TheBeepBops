@@ -36,7 +36,7 @@ You can select from a range of audiences or a single auidience. Examples:
 * <b>About:</b> The project will include 3 parts, the block coding, the obstacle course, and the actual mBot itself. We will start by presenting to our audience what coding is, how it works, and how it can be applied to the real world. We will have our participants start by learning the basic concepts of coding. Then, we will teach them how to program with one of the most basic forms of code, block code. This will be done with the program that conveniently comes with mBot called mBlock. After showing a very brief demonstration of what you can do with code, we will have them interact with the IDE (Integrated Development Environment) in order for them to learn how to code using algorithms. We will have them start off easy with a very basic goal of being able to make the mBot move in a straight line forward and backward for one cycle. Once that is done, we will move to phase 2 which will introduce some more commands that will have the participants allow the mBot to move freely until an obstacle is detected, triggering the mBot to stop its movement and turn in a different direction to avoid crashing into said obstacle. We will have a cheat sheet with the completed code that works with everything mentioned above and we will guide them step by step in order to reach the final code. After phases 1 and 2 are done, we will move on to the final challenge and incorporate the content taught so far by having participants try to navigate through an obstacle course. We will have it premade so that the participants can focus on developing their version of the final code that will be used to traverse the course. After all participants are able to complete the course, if time permits, we will have a bonus phase culminating in a race! The participants can compete against each other's programmed mBot to see who reaches the designated finish area first! The track will be designed to allow collisions between mBots, presenting an even greater challenge! We will have a prize for all those who participated and extra prizes for the winners. 
 
 * <b>Difficulty Level:</b> Beginner
-* <b>Target Audience:</b> Middle School Students, College Students
+* <b>Target Audience:</b> Middle School - College Students
 * <b>Duration of Workshop:</b> Short version, for the middle schoolers: 30 minutes
                                 Longer version, for college students: 75 minutes
 * <b>Needed Materials:</b> Computers/Laptops, Access to the https://ide.makeblock.com/ site, Foam Poster Boards, Scissors, Glue, MBot, Battery for Mbot, USB cable for Mbot connection.
@@ -74,13 +74,15 @@ First, participants will code a robot to move forward and backward in a straight
 
 ## :memo: Publications
 1.Sanaa Boddie, Hector Cruz, Jay Tak, Gunay Cengiz, Cindy Robertson. mBot Adventures: Using robots to teach block coding and algorithmic thinking, Consortium for Computing Sciences in Colleges: Southeastern Region (CCSC:SE), November 1-2, 2024, Greenville, SC 
+2. Sanaa Boddie, Hector Cruz, Jay Tak, Gunay Cengiz, Cindy Robertson. mBot Adventures: Using robots to teach block coding and algorithmic thinking, CREATE Symposium, November 14, 2024, Lawrenceville, GA
 
 ## :open_hands: Outreach
 
 1. <b>TAP Expo</b>, October 8, 2024, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
 2. <b>Class Workshops</b>, October 21-25, 2024, Georgia Gwinnett College: to promote the IT field to non-IT students.
-3. <b>CREATE Symposium</b>, November 14, 2024, Georgia Gwinnett College: to present the project to non-IT and IT students, professors, and other attendees.
-4. <b>S3 (Super Saturday Series)</b>, November 16, 2024, Georgia Gwinnett College: to promote the IT field and educate middle school students.
+3. <b>CCSC:SE</b>, November 1-2, 2024, Furman University: to present the project to fellow IT students and professors from various universities.
+4. <b>CREATE Symposium</b>, November 14, 2024, Georgia Gwinnett College: to present the project to non-IT and IT students, professors, and other attendees.
+5. <b>S3 (Super Saturday Series)</b>, November 16, 2024, Georgia Gwinnett College: to promote the IT field and educate middle school students.
 
 ## :mag_right: Similar Projects
 
