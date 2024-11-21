@@ -123,7 +123,7 @@ https://tapggc.org/projects/2019/fall/ball-is-life/ (Sphero)
 * [Demo Video on how to setup the mBlock IDE after install](https://github.com/user-attachments/assets/c3fcbcd1-8721-4bc5-b552-7abf2d19060c)
 
 ## Workshop Instructions 
-* [Click here to view the workshop instructions pdf file](https://github.com/TAP-GGC/TheBeepBops/blob/b05d9a1896f608e2320f6181c40b59aacfeef535/documents/tutorial%20materials/Workshop%20Instructions.docx)
+* [Click here to view the workshop instructions pdf file](https://github.com/TAP-GGC/TheBeepBops/blob/282ccf778098ee76d8b40ffa923941319c8c6ed9/documents/tutorial%20materials/Workshop%20Instructions.pdf)
 
 * Workshop Presentation Walkthrough
 * [Workshop Powerpoint Walkthrough](https://github.com/user-attachments/assets/980f01eb-da8f-4e93-be68-e38de1f776c7)
