@@ -3,7 +3,8 @@
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
   <img alt="The Beep Bops Logo" src="media/logos/TheBeepBopslogo.png" width="500" height="100" />
-  <h1 align="center">mBot Adventures: Using robots to teach block coding and algorithmic thinking</h1>
+  <h1 align="center">mBot Adventures!</h1>
+  <h2 align="center">Using robots to teach block coding and algorithmic thinking</h2>
   <p align="center">By The BeepBops </p>
 </p>
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
