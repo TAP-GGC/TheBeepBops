@@ -13,11 +13,6 @@
 The objective of the workshop is to have the participants learn basic coding fundamentals, demonstrate critical thinking, and apply block coding. Using block coding, the participants will control a robot called mBot Mega to navigate an obstacle course by utilizing various sensors equipped on the robot. While programming the mBots for real-world tasks, participants will learn about sensors, 'if' and 'else' statements, and booleans.
 <!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
 
-This workshop will have participants:
-
-- Program a robot to perform basic movement of going forward and backward and using its onboard sensors to test out obstacle avoidance.
-- Participate in a robot competition by racing through a pre-designed track, since participants can add variation to the program like making the mBot move faster/slower, turn more sharply, etc...
-
 ## :bulb: Project Information
 <!-- 
 Your Options for target audience: 
@@ -34,7 +29,7 @@ You can select from a range of audiences or a single auidience. Examples:
   You will be presenting most often to your peers who are taking introductory technology classes, so more often than not you should be including college in your target audience range. 
 -->
 * <b>Project Title:</b> Using block coding to teach algorithms that can be used to control a robot
-* <b>About:</b> The project will include 3 parts, the block coding, the obstacle course, and the actual mBot itself. We will start by presenting to our audience what coding is, how it works, and how it can be applied to the real world. We will have our participants start by learning the basic concepts of coding. Then, we will teach them how to program with one of the most basic forms of code, block code. This will be done with the program that conveniently comes with mBot called mBlock. After showing a very brief demonstration of what you can do with code, we will have them interact with the IDE (Integrated Development Environment) in order for them to learn how to code using algorithms. We will have them start off easy with a very basic goal of being able to make the mBot move in a straight line forward and backward for one cycle. Once that is done, we will move to phase 2 which will introduce some more commands that will have the participants allow the mBot to move freely until an obstacle is detected, triggering the mBot to stop its movement and turn in a different direction to avoid crashing into said obstacle. We will have a cheat sheet with the completed code that works with everything mentioned above and we will guide them step by step in order to reach the final code. After phases 1 and 2 are done, we will move on to the final challenge and incorporate the content taught so far by having participants try to navigate through an obstacle course. We will have it premade so that the participants can focus on developing their version of the final code that will be used to traverse the course. After all participants are able to complete the course, if time permits, we will have a bonus phase culminating in a race! The participants can compete against each other's programmed mBot to see who reaches the designated finish area first! The track will be designed to allow collisions between mBots, presenting an even greater challenge! We will have a prize for all those who participated and extra prizes for the winners. 
+* <b>About:</b> The project will include 3 parts, the block coding, the obstacle course, and the actual mBot itself. We will start by presenting to our audience what coding is, how it works, and how it can be applied to the real world. We will have our participants start by learning the basic concepts of coding. Then, we will teach them how to program with one of the most basic forms of code, block code. This will be done with the program that conveniently comes with mBot called mBlock. After showing a very brief demonstration of what you can do with code, we will have them interact with the IDE (Integrated Development Environment) in order for them to learn how to code using algorithms. We will go through the slides explaining our different teaching points, and then have them code the bot themselves and upload it to the bot. They will be able to demo the bots on the floor, or using our prebuilt obstacle course.
 
 * <b>Difficulty Level:</b> Beginner
 * <b>Target Audience:</b> Middle School - College Students
@@ -61,7 +56,6 @@ You can select from a range of audiences or a single auidience. Examples:
 * Sanaa Boddie
 * Hector Cruz
 * Jay Tak
-* Bella Toledo (Honorary) </3
 
 ## :mortar_board: Advisors
 <!-- name of the two professors overseeing your TAP class -->
