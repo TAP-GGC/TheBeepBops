@@ -81,7 +81,7 @@ First, participants will code a robot to move forward and backward in a straight
 
 ## :mag_right: Similar Projects
 
-https://tapggc.org/projects/2019/fall/ball-is-life/ (Sphero)
+* [Ball is Life](https://tapggc.org/projects/2019/fall/ball-is-life) (Sphero)
 
 ## :computer: Technology
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
@@ -109,7 +109,7 @@ https://tapggc.org/projects/2019/fall/ball-is-life/ (Sphero)
 * Upload the code through the USB cable to the mBot and turn it on using the switch on the megaPi
 
 ## Building the mBot Mega
-* https://support.makeblock.com/hc/en-us/articles/1500009896321-Build-mBot-Mega
+* [Click here to view mBot Mega building instructions](https://support.makeblock.com/hc/en-us/articles/1500009896321-Build-mBot-Mega)
 
 ## Short Demo Instructions 
 * [Click here to view demo instructions pdf file](https://github.com/TAP-GGC/TheBeepBops/blob/a7f47cf25b2650eba115ab7c36221ab4f1020a78/documents/tutorial%20materials/Demo%20Instructions.pdf)
