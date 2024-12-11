@@ -29,8 +29,6 @@ You can select from a range of audiences or a single auidience. Examples:
   You will be presenting most often to your peers who are taking introductory technology classes, so more often than not you should be including college in your target audience range. 
 -->
 * <b>Project Title:</b> Using block coding to teach algorithms that can be used to control a robot
-* <b>About:</b> The project will include 3 parts, the block coding, the obstacle course, and the actual mBot itself. We will start by presenting to our audience what coding is, how it works, and how it can be applied to the real world. We will have our participants start by learning the basic concepts of coding. Then, we will teach them how to program with one of the most basic forms of code, block code. This will be done with the program that conveniently comes with mBot called mBlock. After showing a very brief demonstration of what you can do with code, we will have them interact with the IDE (Integrated Development Environment) in order for them to learn how to code using algorithms. We will go through the slides explaining our different teaching points, and then have them code the bot themselves and upload it to the bot. They will be able to demo the bots on the floor, or using our prebuilt obstacle course.
-
 * <b>Difficulty Level:</b> Beginner
 * <b>Target Audience:</b> Middle School - College Students
 * <b>Duration of Workshop:</b> Short version, for the middle schoolers: 30 minutes
